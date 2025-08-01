@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-      <img src="assets/Transpear-Logo.png" style="width:200px; height:auto;"></img>
+      <img src="assets/Transpear-Logo.png" style="width:150px; height:auto;"></img>
       <h1>Transpear</h1>
   </div>
   <img src="https://img.shields.io/badge/written%20in-Zig-orange?logo=zig"></img>
